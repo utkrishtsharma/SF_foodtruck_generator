@@ -1,10 +1,12 @@
 
 ## Project Description: Food Truck Generator
 The Food Truck Generator is a web application designed to help users find food trucks in San Francisco. The application allows users to search for food trucks based on the food items they offer, view detailed information about each food truck, and navigate through the results using pagination.
-![Logo](image-1.png)
-![Logo](image-2.png)
-![Logo](image-3.png)
-![Logo](image-4.png)
+<p align="center">
+  <img src="image-4.png" alt="Logo" width="50%">
+  <img src="image-3.png" alt="Logo" width="50%">
+  <img src="image-1.png" alt="Logo" width="50%">
+  <img src="image-2.png" alt="Logo" width="50%">
+</p>
 Project Structure
 data/: Contains the CSV file with data about food trucks.
 
