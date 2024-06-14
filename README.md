@@ -22,10 +22,23 @@ README.md: The README file providing an overview of the project and instructions
 
 ## Setup
 
-1. Clone the repository.
-2. Install the required dependencies:
+1 **Clone the repository**:
    ```bash
-   pip install -r requirements.txt
+   git clone https://github.com/utkrishtsharma/SF_foodtruck_generator.git
+   cd SF_foodtruck_generator
+2 Create a virtual environment and activate it (optional but recommended):
 
-     '''
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+3 Install the required dependencies:
+
+pip install -r requirements.txt
+
+4 Run the Flask application:
+python app.py
+
+5 Open your web browser and navigate to:
+
+http://127.0.0.1:5000
      
